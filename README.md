@@ -9,3 +9,4 @@ The StemGNN_PM.py include the stemgnn process model.
 
 The DCRNN_PM fold has the implemetation method of DCRNN process model.
 
+Then stem_prototype.py contains the stem_prototype process model.
