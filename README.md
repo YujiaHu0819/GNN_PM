@@ -1,7 +1,7 @@
 # GNN_PM
 
 
-This repo is for the research "GNN on Process Model Forecasting".
+This repo is for the research "GNNs on Process Model Forecasting".
 
 In the baseline.py, it include all baseline methods (NAV, AR, ARIMA, HW and GARCH).
 
